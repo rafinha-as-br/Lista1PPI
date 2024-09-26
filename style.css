@@ -112,3 +112,22 @@ header{
     }
 }
 
+/*  */
+/* Experiência profissional DIV */
+
+
+.experienciaProf{
+    display: flex;
+    flex-direction: row;
+    background-color: #6b6a6a;
+}
+
+.rafaPNG_2{
+    width: 20%;
+}
+
+.text3{
+    display: flex;
+    flex-direction: column;
+    
+}
