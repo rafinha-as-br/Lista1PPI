@@ -45,6 +45,7 @@ header{
     gap: 15px;
     text-align: center;
 }
+
 /*  */
 
 
@@ -249,14 +250,12 @@ header{
 
     }
 }
-.png4{width: 7%; padding-right: 20px;}
-.png5{width: 5%; padding-right: 20px;} 
+.png4{width: 9%; padding-right: 20px;}
+.png5{width: 9%; padding-right: 20px;} 
 .li3{
     display: flex;
     flex-direction: row;
     align-items: center;
     font-size: 30px;
-    p{
-        align-items: center;
-    }
+    gap: 15px;
 }
